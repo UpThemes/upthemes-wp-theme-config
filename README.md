@@ -1,3 +1,3 @@
-# Cedaro WordPress Theme Configuration
+# UpThemes WordPress Theme Configuration
 
-Shared project structure, configuration options, and tasks for Cedaro's WordPress Themes.
+Shared project structure, configuration options, and tasks for UpThemes' WordPress Themes.
