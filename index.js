@@ -32,18 +32,14 @@ module.exports = function() {
 			wpcss:         'grunt-wp-css'
 		},
 		themes: [
-			'americanaura',
-			'bridger',
-			'caldwell',
-			'debut',
-			'encore',
-			'huesos',
-			'hyalite',
-			'nowell',
-			'obsidian',
-			'promenade',
-			'shrake',
-			'soundcheck'
+			'amplify',
+			'creative',
+			'dailymag',
+			'gallery',
+			'largo',
+			'odessa',
+			'worldview',
+			'yumblog'
 		]
 	};
 };
